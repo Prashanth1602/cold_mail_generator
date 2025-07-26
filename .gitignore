@@ -1,0 +1,7 @@
+.env
+*ipynb
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.db
